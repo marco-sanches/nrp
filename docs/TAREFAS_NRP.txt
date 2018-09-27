@@ -1,0 +1,22 @@
+﻿Tarefas para o sistema NRP
+Completar o CRUD com as telas de edição e exclusão
+Melhorar a tela de cadastro
+Melhorar a tela de consulta
+Melhorar a tela inicial
+Melhorar a segurança
+Tentar trazer os dados do CNIS e do SUB
+Melhorar o cadastro de empresas
+terminar o o site/index e o layouts/main
+
+corrigir o breadcrumbs do seg/view
+
+DAR UPDATE NA TABELA BENEF E COLOCAR TODOS OS CID_ID NULOS COM 12452(NÃO INFORMADO)OK
+DAR UPDATE NA TABELA SEG E COLOCAR TODOS OS EMP_ID NULOS COM 58 (NÃO INFORMADO)OK
+DAR UPDATE NA TABELA SEG E COLOCAR TODOS OS MUNIC_ID NULOS COM 9715 (NÃO INFORMADO)OK
+DAR UPDATE NA TABELA SEG E COLOCAR TODOS OS PROF_ID NULOS COM 0 (NÃO INFORMADA)OK
+COLOCAR NA ABA CONTATO UM ACESSO PARA O FORM DE EDIÇÃO DOS TELEFONES.
+IMPLEMENTAR O CADASTRO DA EMPRESA
+COLOCAR O RESPONSE E O NULL NOS AUTOCOMPLETE
+
+TERMINAR O RESPNSE NOS AUTO COMPLETE
+
